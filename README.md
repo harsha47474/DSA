@@ -17,6 +17,7 @@ My LeetCode problem solutions
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/harsha47474/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2057-smallest-index-with-equal-value](https://github.com/harsha47474/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha47474/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -24,6 +25,7 @@ My LeetCode problem solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha47474/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
@@ -48,5 +50,6 @@ My LeetCode problem solutions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/harsha47474/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
