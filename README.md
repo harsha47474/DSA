@@ -55,6 +55,7 @@ My LeetCode problem solutions
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/harsha47474/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/harsha47474/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harsha47474/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
