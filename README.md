@@ -57,6 +57,7 @@ My LeetCode problem solutions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harsha47474/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harsha47474/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/harsha47474/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harsha47474/DSA/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harsha47474/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -70,6 +71,15 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harsha47474/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harsha47474/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harsha47474/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
