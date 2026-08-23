@@ -30,6 +30,7 @@ My LeetCode problem solutions
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
@@ -101,4 +102,16 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harsha47474/DSA/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
