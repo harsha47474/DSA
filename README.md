@@ -19,6 +19,7 @@ My LeetCode problem solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsha47474/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [1572-matrix-diagonal-sum](https://github.com/harsha47474/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
 | [2057-smallest-index-with-equal-value](https://github.com/harsha47474/DSA/tree/master/2057-smallest-index-with-equal-value) |
@@ -87,6 +88,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha47474/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -144,6 +146,7 @@ My LeetCode problem solutions
 | [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsha47474/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harsha47474/DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -152,4 +155,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harsha47474/DSA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
