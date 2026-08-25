@@ -109,6 +109,7 @@ My LeetCode problem solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -135,4 +136,12 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
