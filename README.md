@@ -90,6 +90,7 @@ My LeetCode problem solutions
 | [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha47474/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -115,10 +116,12 @@ My LeetCode problem solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -159,4 +162,12 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
