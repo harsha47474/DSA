@@ -173,6 +173,7 @@ My LeetCode problem solutions
 ## Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/harsha47474/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/harsha47474/DSA/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -181,9 +182,11 @@ My LeetCode problem solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/harsha47474/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/harsha47474/DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/harsha47474/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/harsha47474/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
