@@ -19,6 +19,7 @@ My LeetCode problem solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsha47474/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0322-coin-change](https://github.com/harsha47474/DSA/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/harsha47474/DSA/tree/master/0860-lemonade-change) |
 | [1572-matrix-diagonal-sum](https://github.com/harsha47474/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -133,6 +134,7 @@ My LeetCode problem solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/harsha47474/DSA/tree/master/0322-coin-change) |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -196,4 +198,16 @@ My LeetCode problem solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harsha47474/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harsha47474/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/harsha47474/DSA/tree/master/0938-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harsha47474/DSA/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harsha47474/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harsha47474/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
