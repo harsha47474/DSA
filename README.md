@@ -18,6 +18,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
+| [0134-gas-station](https://github.com/harsha47474/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsha47474/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0322-coin-change](https://github.com/harsha47474/DSA/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
@@ -123,6 +124,7 @@ My LeetCode problem solutions
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/harsha47474/DSA/tree/master/0134-gas-station) |
 | [0860-lemonade-change](https://github.com/harsha47474/DSA/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
