@@ -103,6 +103,7 @@ My LeetCode problem solutions
 | [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha47474/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Floyd's Cycle Finding Algorithm
@@ -196,12 +197,14 @@ My LeetCode problem solutions
 | [0700-search-in-a-binary-search-tree](https://github.com/harsha47474/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/harsha47474/DSA/tree/master/0938-range-sum-of-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harsha47474/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/harsha47474/DSA/tree/master/0938-range-sum-of-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -215,11 +218,13 @@ My LeetCode problem solutions
 | [0700-search-in-a-binary-search-tree](https://github.com/harsha47474/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/harsha47474/DSA/tree/master/0938-range-sum-of-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/harsha47474/DSA/tree/master/0322-coin-change) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Knapsack Problem
 |  |
 | ------- |
