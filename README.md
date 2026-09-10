@@ -22,6 +22,7 @@ My LeetCode problem solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsha47474/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/harsha47474/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsha47474/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/harsha47474/DSA/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/harsha47474/DSA/tree/master/0860-lemonade-change) |
@@ -44,6 +45,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsha47474/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 | [2652-sum-multiples](https://github.com/harsha47474/DSA/tree/master/2652-sum-multiples) |
@@ -55,11 +57,13 @@ My LeetCode problem solutions
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harsha47474/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/harsha47474/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/harsha47474/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -106,6 +110,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -250,5 +255,6 @@ My LeetCode problem solutions
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [0948-bag-of-tokens](https://github.com/harsha47474/DSA/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->
