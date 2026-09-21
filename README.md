@@ -108,6 +108,7 @@ My LeetCode problem solutions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harsha47474/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/harsha47474/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/harsha47474/DSA/tree/master/0948-bag-of-tokens) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harsha47474/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -120,6 +121,7 @@ My LeetCode problem solutions
 | [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha47474/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -151,6 +153,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
+| [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
@@ -273,4 +276,8 @@ My LeetCode problem solutions
 | ------- |
 | [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [0948-bag-of-tokens](https://github.com/harsha47474/DSA/tree/master/0948-bag-of-tokens) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
