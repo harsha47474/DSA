@@ -235,6 +235,7 @@ My LeetCode problem solutions
 | [1302-deepest-leaves-sum](https://github.com/harsha47474/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harsha47474/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/harsha47474/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -246,6 +247,7 @@ My LeetCode problem solutions
 | [1302-deepest-leaves-sum](https://github.com/harsha47474/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harsha47474/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/harsha47474/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@ My LeetCode problem solutions
 | [1302-deepest-leaves-sum](https://github.com/harsha47474/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harsha47474/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/harsha47474/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -280,6 +283,7 @@ My LeetCode problem solutions
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/harsha47474/DSA/tree/master/1302-deepest-leaves-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/harsha47474/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
