@@ -35,6 +35,7 @@ My LeetCode problem solutions
 | [2057-smallest-index-with-equal-value](https://github.com/harsha47474/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha47474/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harsha47474/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha47474/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harsha47474/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harsha47474/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -52,6 +53,7 @@ My LeetCode problem solutions
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 | [2652-sum-multiples](https://github.com/harsha47474/DSA/tree/master/2652-sum-multiples) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harsha47474/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/harsha47474/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harsha47474/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
