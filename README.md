@@ -155,6 +155,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harsha47474/DSA/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harsha47474/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha47474/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -176,6 +177,7 @@ My LeetCode problem solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harsha47474/DSA/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/harsha47474/DSA/tree/master/0322-coin-change) |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -204,6 +206,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harsha47474/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha47474/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -313,4 +316,8 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harsha47474/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
