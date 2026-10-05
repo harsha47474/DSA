@@ -14,26 +14,20 @@
  * }
  */
 class Solution {
-    // ========== NUBRA METHOD ==========
-    List<TreeNode> list = new ArrayList<>();
+    // ========== PRO METHOD ==========
     public void flatten(TreeNode root){
-        if(root == null) return;
-        preOrderTraversal(root);
-        TreeNode temp = root;
-        if(list.size() == 1) return;
-
-        for(TreeNode t: list){
-            temp.right = t;
-            temp.left = null;
-            temp = temp.right;
+        TreeNode current = root;
+        while(current != null){
+            if(current.left != null){
+                TreeNode temp = current.left;
+                while(temp.right != null){
+                    temp = temp.right;
+                }
+                temp.right = current.right;
+                current.right = current.left;
+                current.left = null;
+            }
+            current = current.right;
         }
-    }
-    
-    public void preOrderTraversal(TreeNode root){
-        if(root == null) return;
-
-        list.add(root);
-        preOrderTraversal(root.left);
-        preOrderTraversal(root.right);
     }
 }
