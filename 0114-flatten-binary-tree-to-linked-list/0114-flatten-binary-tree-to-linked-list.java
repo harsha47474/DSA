@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // ========== NUBRA METHOD ==========
     List<TreeNode> list = new ArrayList<>();
     public void flatten(TreeNode root){
         if(root == null) return;
