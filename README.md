@@ -160,6 +160,7 @@ My LeetCode problem solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harsha47474/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/harsha47474/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsha47474/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha47474/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -168,6 +169,7 @@ My LeetCode problem solutions
 | ------- |
 | [0134-gas-station](https://github.com/harsha47474/DSA/tree/master/0134-gas-station) |
 | [0860-lemonade-change](https://github.com/harsha47474/DSA/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsha47474/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/harsha47474/DSA/tree/master/0948-bag-of-tokens) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -204,6 +206,7 @@ My LeetCode problem solutions
 | [0155-min-stack](https://github.com/harsha47474/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/harsha47474/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsha47474/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha47474/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harsha47474/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
@@ -212,6 +215,7 @@ My LeetCode problem solutions
 | [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harsha47474/DSA/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/harsha47474/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsha47474/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha47474/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
