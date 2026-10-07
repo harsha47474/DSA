@@ -242,6 +242,7 @@ My LeetCode problem solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harsha47474/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harsha47474/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsha47474/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/harsha47474/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsha47474/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/harsha47474/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harsha47474/DSA/tree/master/0226-invert-binary-tree) |
@@ -259,6 +260,7 @@ My LeetCode problem solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/harsha47474/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsha47474/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/harsha47474/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harsha47474/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -285,6 +287,7 @@ My LeetCode problem solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harsha47474/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harsha47474/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsha47474/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/harsha47474/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsha47474/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/harsha47474/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/harsha47474/DSA/tree/master/0226-invert-binary-tree) |
@@ -332,4 +335,5 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harsha47474/DSA/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/harsha47474/DSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
