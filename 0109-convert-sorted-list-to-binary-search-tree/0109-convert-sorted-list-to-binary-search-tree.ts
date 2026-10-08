@@ -27,24 +27,24 @@
 function sortedListToBST(head: ListNode | null): TreeNode | null {
     let nums: number[] = [];
     let temp: ListNode = head;
-    while(temp != null){
+    while (temp != null) {
         nums.push(temp.val);
         temp = temp.next;
     }
 
-    return build(0, nums.length-1, nums);
-};
+    const build = (left: number, right: number) => {
+        if (left > right) {
+            return null;
+        }
 
-function build(left: number, right: number, nums: number[]): TreeNode | null {
-    if(left > right) {
-        return null;
+        let mid: number = Math.floor((left + right) / 2);
+        let root: TreeNode = new TreeNode(nums[mid]);
+
+        root.left = build(left, mid - 1);
+        root.right = build(mid + 1, right);
+
+        return root;
     }
 
-    let mid: number = Math.floor((left + right) / 2);
-    let root: TreeNode = new TreeNode(nums[mid]);
-    
-    root.left = build(left, mid-1, nums);
-    root.right = build(mid+1, right, nums);
-
-    return root;
-}
+    return build(0, nums.length - 1);
+};
