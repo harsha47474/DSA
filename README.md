@@ -17,6 +17,7 @@ My LeetCode problem solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harsha47474/DSA/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harsha47474/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harsha47474/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -119,6 +120,7 @@ My LeetCode problem solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harsha47474/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harsha47474/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harsha47474/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/harsha47474/DSA/tree/master/0141-linked-list-cycle) |
