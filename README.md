@@ -36,6 +36,7 @@ My LeetCode problem solutions
 | [2057-smallest-index-with-equal-value](https://github.com/harsha47474/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/harsha47474/DSA/tree/master/2614-prime-in-diagonal) |
+| [2784-check-if-array-is-good](https://github.com/harsha47474/DSA/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha47474/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harsha47474/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -138,6 +139,7 @@ My LeetCode problem solutions
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/harsha47474/DSA/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha47474/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Floyd's Cycle Finding Algorithm
@@ -349,6 +351,7 @@ My LeetCode problem solutions
 | ------- |
 | [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [0948-bag-of-tokens](https://github.com/harsha47474/DSA/tree/master/0948-bag-of-tokens) |
+| [2784-check-if-array-is-good](https://github.com/harsha47474/DSA/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
 | ------- |
