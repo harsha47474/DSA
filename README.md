@@ -34,6 +34,7 @@ My LeetCode problem solutions
 | [1572-matrix-diagonal-sum](https://github.com/harsha47474/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
 | [2057-smallest-index-with-equal-value](https://github.com/harsha47474/DSA/tree/master/2057-smallest-index-with-equal-value) |
+| [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/harsha47474/DSA/tree/master/2614-prime-in-diagonal) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha47474/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -65,6 +66,7 @@ My LeetCode problem solutions
 | [0074-search-a-2d-matrix](https://github.com/harsha47474/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/harsha47474/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -122,6 +124,7 @@ My LeetCode problem solutions
 | [0948-bag-of-tokens](https://github.com/harsha47474/DSA/tree/master/0948-bag-of-tokens) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/harsha47474/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harsha47474/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +137,7 @@ My LeetCode problem solutions
 | [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha47474/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Floyd's Cycle Finding Algorithm
