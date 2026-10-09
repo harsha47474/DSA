@@ -36,6 +36,7 @@ My LeetCode problem solutions
 | [2057-smallest-index-with-equal-value](https://github.com/harsha47474/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/harsha47474/DSA/tree/master/2614-prime-in-diagonal) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/harsha47474/DSA/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2784-check-if-array-is-good](https://github.com/harsha47474/DSA/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha47474/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -47,6 +48,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/harsha47474/DSA/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/harsha47474/DSA/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha47474/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
