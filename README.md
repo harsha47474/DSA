@@ -34,6 +34,7 @@ My LeetCode problem solutions
 | [1572-matrix-diagonal-sum](https://github.com/harsha47474/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
 | [2057-smallest-index-with-equal-value](https://github.com/harsha47474/DSA/tree/master/2057-smallest-index-with-equal-value) |
+| [2614-prime-in-diagonal](https://github.com/harsha47474/DSA/tree/master/2614-prime-in-diagonal) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha47474/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harsha47474/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -52,6 +53,7 @@ My LeetCode problem solutions
 | [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
+| [2614-prime-in-diagonal](https://github.com/harsha47474/DSA/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/harsha47474/DSA/tree/master/2652-sum-multiples) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harsha47474/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -77,6 +79,7 @@ My LeetCode problem solutions
 ## Number Theory
 |  |
 | ------- |
+| [2614-prime-in-diagonal](https://github.com/harsha47474/DSA/tree/master/2614-prime-in-diagonal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/harsha47474/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
@@ -84,6 +87,7 @@ My LeetCode problem solutions
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harsha47474/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/harsha47474/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/harsha47474/DSA/tree/master/2614-prime-in-diagonal) |
 ## Linked List
 |  |
 | ------- |
