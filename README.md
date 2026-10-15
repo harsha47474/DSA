@@ -52,6 +52,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harsha47474/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2352-equal-row-and-column-pairs](https://github.com/harsha47474/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/harsha47474/DSA/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/harsha47474/DSA/tree/master/2810-faulty-keyboard) |
@@ -190,6 +191,7 @@ My LeetCode problem solutions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsha47474/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/harsha47474/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha47474/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harsha47474/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 | [2810-faulty-keyboard](https://github.com/harsha47474/DSA/tree/master/2810-faulty-keyboard) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -238,6 +240,7 @@ My LeetCode problem solutions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsha47474/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/harsha47474/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha47474/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harsha47474/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harsha47474/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
