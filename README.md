@@ -61,6 +61,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsha47474/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/harsha47474/DSA/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
@@ -124,6 +125,7 @@ My LeetCode problem solutions
 | [0024-swap-nodes-in-pairs](https://github.com/harsha47474/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/harsha47474/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harsha47474/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/harsha47474/DSA/tree/master/0224-basic-calculator) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harsha47474/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -185,6 +187,7 @@ My LeetCode problem solutions
 | [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harsha47474/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/harsha47474/DSA/tree/master/0049-group-anagrams) |
+| [0224-basic-calculator](https://github.com/harsha47474/DSA/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harsha47474/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/harsha47474/DSA/tree/master/0856-score-of-parentheses) |
@@ -235,6 +238,7 @@ My LeetCode problem solutions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsha47474/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harsha47474/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harsha47474/DSA/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/harsha47474/DSA/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/harsha47474/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsha47474/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
