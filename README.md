@@ -36,6 +36,7 @@ My LeetCode problem solutions
 | [1572-matrix-diagonal-sum](https://github.com/harsha47474/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/harsha47474/DSA/tree/master/1872-stone-game-viii) |
 | [2057-smallest-index-with-equal-value](https://github.com/harsha47474/DSA/tree/master/2057-smallest-index-with-equal-value) |
+| [2352-equal-row-and-column-pairs](https://github.com/harsha47474/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/harsha47474/DSA/tree/master/2614-prime-in-diagonal) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/harsha47474/DSA/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -51,6 +52,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/harsha47474/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/harsha47474/DSA/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2810-faulty-keyboard](https://github.com/harsha47474/DSA/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha47474/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -96,6 +98,7 @@ My LeetCode problem solutions
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harsha47474/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/harsha47474/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/harsha47474/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2614-prime-in-diagonal](https://github.com/harsha47474/DSA/tree/master/2614-prime-in-diagonal) |
 ## Linked List
 |  |
@@ -145,6 +148,7 @@ My LeetCode problem solutions
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2352-equal-row-and-column-pairs](https://github.com/harsha47474/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/harsha47474/DSA/tree/master/2784-check-if-array-is-good) |
