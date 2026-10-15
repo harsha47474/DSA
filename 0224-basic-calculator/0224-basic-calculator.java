@@ -55,16 +55,19 @@ class Solution {
         // return nums.peek();
 
         ArrayDeque<Integer> st = new ArrayDeque<>();
+
         int res=0;
         int sign = 1;
         int num = 0; 
+
         for(char ch : s.toCharArray()) {
             if(Character.isDigit(ch)) {
                 num = num * 10 + ch - '0';
             } else if (ch == '+' || ch == '-') {
                 res += num * sign;
                 num=0;
-                sign = ch=='+' ? 1: -1;
+                if(ch == '+') sign = +1;
+                else sign = -1;
             } else if (ch == '(') {
                 st.push(res);
                 st.push(sign);
