@@ -18,6 +18,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsha47474/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/harsha47474/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/harsha47474/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harsha47474/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harsha47474/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -135,6 +136,7 @@ My LeetCode problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsha47474/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/harsha47474/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harsha47474/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harsha47474/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/harsha47474/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -177,6 +179,7 @@ My LeetCode problem solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsha47474/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harsha47474/DSA/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/harsha47474/DSA/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harsha47474/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/harsha47474/DSA/tree/master/0856-score-of-parentheses) |
@@ -357,6 +360,7 @@ My LeetCode problem solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harsha47474/DSA/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/harsha47474/DSA/tree/master/0268-missing-number) |
 | [0948-bag-of-tokens](https://github.com/harsha47474/DSA/tree/master/0948-bag-of-tokens) |
 | [2784-check-if-array-is-good](https://github.com/harsha47474/DSA/tree/master/2784-check-if-array-is-good) |
