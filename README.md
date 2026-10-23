@@ -152,6 +152,7 @@ My LeetCode problem solutions
 | [0496-next-greater-element-i](https://github.com/harsha47474/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/harsha47474/DSA/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harsha47474/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harsha47474/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2352-equal-row-and-column-pairs](https://github.com/harsha47474/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harsha47474/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/harsha47474/DSA/tree/master/2540-minimum-common-value) |
@@ -195,6 +196,7 @@ My LeetCode problem solutions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harsha47474/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/harsha47474/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha47474/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harsha47474/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harsha47474/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/harsha47474/DSA/tree/master/1927-sum-game) |
 | [2810-faulty-keyboard](https://github.com/harsha47474/DSA/tree/master/2810-faulty-keyboard) |
@@ -271,6 +273,7 @@ My LeetCode problem solutions
 ## Counting
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harsha47474/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harsha47474/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
